@@ -1,0 +1,29 @@
+*{box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+   
+    
+    .container{
+      width: 1250px;
+      position: relative;
+      margin: 0px auto;
+    }
+    .row{
+      margin-bottom:10px;
+      min-height: 80px;
+    }
+    .col{
+      float: left;
+      padding: 10px;
+      padding-top: 10px;
+      box-sizing: border-box;
+      background-color: #fff;  
+      min-height: 50px;
+    }
+    .sticky-bar{
+        position: -webkit-sticky;
+        position: sticky;
+        top:0;
+    }
+      

@@ -1,0 +1,11 @@
+@font-face {
+    font-family:abc ;
+    src: url('font/SolaimanLipi_04_07_05.ttf') format('truetype');
+  }
+  html{
+    font-family: abc;
+  }
+   h1 h2 h3{line-height: 20px;}
+  p{margin: 0px; text-align: justify;}
+  img{
+    width: 100%;}

@@ -1,0 +1,39 @@
+.menu{
+    width: 1000px;
+    margin: auto;
+    
+  }
+  
+
+   .hmenu{
+    width: 100%;
+   border: 1px solid #ddd;
+   margin: 5px;
+    
+    position: absolute;
+    
+  }
+  .hmenu ul{
+    margin: 0px;
+    padding: 0px;
+    
+
+  } 
+  .hmenu ul li{
+  display:inline-block;
+  padding: 20px 5px; 
+ 
+  
+
+   
+  }
+  .hmenu ul li a{
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 5px;
+  padding-left: 15px;
+  font-size: 1.2rem;
+
+ }
+ .hmenu ul li a:hover{color: #fff; background-color:#000;}
